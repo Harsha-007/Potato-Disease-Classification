@@ -2,11 +2,11 @@
 
 ---Download the data from kaggle (https://www.kaggle.com/arjuntejaswi/plant-village)
 
----Only keep folders related to Potatoes.
+---Only keep folders related to **Potatoes**.
 
 ---Run Jupyter Notebook in Browser.
 
----Open training/potato-disease-training.ipynb in Jupyter Notebook.
+---Open **training/potato-disease-training.ipynb** in Jupyter Notebook.
 
 ---In cell #2, update the path to dataset.
 
