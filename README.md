@@ -1,6 +1,6 @@
 # Potato-Disease-Classification
 
----Download the data from kaggle.
+---Download the data from kaggle (https://www.kaggle.com/arjuntejaswi/plant-village)
 
 ---Only keep folders related to Potatoes.
 
